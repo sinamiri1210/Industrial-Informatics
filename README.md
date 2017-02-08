@@ -7,7 +7,7 @@
 
 ## Start Server
 
-* Go to server folder on command line mode (In the JSCode file)
+* Go to JSCode folder on command line mode
 ```
 node server.js
 ```
